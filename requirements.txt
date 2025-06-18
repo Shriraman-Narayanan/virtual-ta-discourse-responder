@@ -15,6 +15,7 @@ urllib3==2.2.1
 # OpenAI & Prompt Evaluation
 openai==1.84.0
 python-dotenv==1.1.0
+pytesseract
 
 # Image Processing
 Pillow==11.1.0
